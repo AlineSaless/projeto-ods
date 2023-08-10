@@ -60,7 +60,7 @@ h3 {font-size: 15px; font-family:Times New Roman, Times, serif;}
     flex-direction: row;
     }
 
-.aprendaMycontainer {display:flex;  gap:1em; background-color: #3f4135d2; 
+.aprendaMycontainer {display:flex;  gap:1em; background-color: #999b92d2; 
     color: beige; flex-direction: row;}
 
 
