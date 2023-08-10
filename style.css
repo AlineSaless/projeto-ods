@@ -61,7 +61,7 @@ h3 {font-size: 15px; font-family:Times New Roman, Times, serif;}
     }
 
 .aprendaMycontainer {display:flex;  gap:1em; background-color: #999b92d2; 
-    color: beige; flex-direction: row;}
+    color: black; flex-direction: row;}
 
 
 .aprenda_forme_conteudo h3 { font-size: 14px; text-align: center;}
